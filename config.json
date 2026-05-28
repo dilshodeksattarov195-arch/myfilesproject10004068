@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggererocess",
+        "uuid": 17854452,
+        "checksum": "klp4je"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
